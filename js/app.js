@@ -60,14 +60,17 @@ new Vue({
     bioSection: {
       title: 'Front-End Web Developer',
       descriptions: [
-        `<i class="fa fa-smile fa-2x"></i> Hello! My passions include web development, photography, traveling, and hiking. When I\'m not in the office, you can probably find me coding at random cafes, exploring all kinds of ethnic restaurants, or taking <a href="https://unsplash.com/@darrylbrian" target="_blank">photographs</a> of the beauty that is nature.`,
-        `<i class="fa fa-code fa-2x"></i> I am a product-focused Senior Software Engineer passionate about creating accessible interfaces that drive business growth. I specialize in taking greenfield projects from concept to production at scale.`,
-        `Professional Highlights:`,
+        `<i class="fa fa-smile"></i> Hello! My passions include web development, photography, traveling, and hiking. When I\'m not in the office, you can probably find me coding at random cafes, exploring all kinds of ethnic restaurants, or taking photographs of the beauty that is nature.`,
+        `<i class="fa fa-code"></i> I am a product-focused Senior Software Engineer passionate about creating accessible interfaces that drive business growth. I specialize in taking greenfield projects from concept to production at scale.`,
+        `<i class="fas fa-highlighter"></i> Professional Highlights:`,
         `&nbsp;&nbsp;• Scale: Built data ingestion tools supporting 1M+ users at Medidata Solutions`,
         `&nbsp;&nbsp;• Impact: Improved data ingestion efficiency by 35% via custom React wizards and real-time monitoring features`,
         `&nbsp;&nbsp;• Innovation: Early adopter of AI-assisted development (Copilot/Claude Sonnet) to improve code velocity and test coverage.`,
         `&nbsp;&nbsp;• Leadership: Former teacher and bootcamp TA; expert at mentoring teams and communicating technical constraints to non-technical stakeholders.`,
-        `<i class="fa fa-graduation-cap fa-2x"></i> I'm a graduate from the New Jersey Institute of Technology with a Bachelor of Science in Computer Engineering, Rutgers University's Full-Stack Web Development program, and Rutgers' Graduate School of Education with a Masters in Administration and Supervision. Overall, as a life-long learner, I continue to learn more in everything I do as I strive to become the best version of myself.`,
+        `<i class="fa fa-graduation-cap"></i> Education:`,
+        `&nbsp;&nbsp;• New Jersey Institute of Technology: Bachelor of Science, Computer Engineering`,
+        `&nbsp;&nbsp;• Rutgers University: Continuing Education, Full-Stack Web Development`,
+        `&nbsp;&nbsp;• Rutgers University: Master of Education, Administration and Supervision`,
       ]
     },
     projectsSection: {
