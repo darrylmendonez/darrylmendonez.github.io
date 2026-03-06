@@ -61,8 +61,13 @@ new Vue({
       title: 'Front-End Web Developer',
       descriptions: [
         `<i class="fa fa-smile fa-2x"></i> Hello! My passions include web development, photography, traveling, and hiking. When I\'m not in the office, you can probably find me coding at random cafes, exploring all kinds of ethnic restaurants, or taking <a href="https://unsplash.com/@darrylbrian" target="_blank">photographs</a> of the beauty that is nature.`,
-        `<i class="fa fa-code fa-2x"></i> I am a Senior Applications Engineer on the Data Science Platform team at Medidata Solutions. I am a Tech Lead on two teams working on SaaS products that deliver insight on clinical trial data to more than one million registered users including Moderna's COVID-19 vaccine trials.`,
-        `<i class="fa fa-graduation-cap fa-2x"></i> I'm a graduate from the New Jersey Institute of Technology with a Bachelor's in Computer Engineering, Rutgers University with a Master's in Education, and Rutgers University's Full-Stack Web Development bootcamp program. Overall, as a life-long learner, I continue to learn more in everything I do as I strive to become the best version of myself.`,
+        `<i class="fa fa-code fa-2x"></i> I am a product-focused Senior Software Engineer passionate about creating accessible interfaces that drive business growth. I specialize in taking greenfield projects from concept to production at scale.`,
+        `Professional Highlights:`,
+        `&nbsp;&nbsp;• Scale: Built data ingestion tools supporting 1M+ users at Medidata Solutions`,
+        `&nbsp;&nbsp;• Impact: Improved data ingestion efficiency by 35% via custom React wizards and real-time monitoring features`,
+        `&nbsp;&nbsp;• Innovation: Early adopter of AI-assisted development (Copilot/Claude Sonnet) to improve code velocity and test coverage.`,
+        `&nbsp;&nbsp;• Leadership: Former teacher and bootcamp TA; expert at mentoring teams and communicating technical constraints to non-technical stakeholders.`,
+        `<i class="fa fa-graduation-cap fa-2x"></i> I'm a graduate from the New Jersey Institute of Technology with a Bachelor of Science in Computer Engineering, Rutgers University's Full-Stack Web Development program, and Rutgers' Graduate School of Education with a Masters in Administration and Supervision. Overall, as a life-long learner, I continue to learn more in everything I do as I strive to become the best version of myself.`,
       ]
     },
     projectsSection: {
@@ -293,7 +298,7 @@ new Vue({
           class: 'fab fa-stack-overflow',
         },
         {
-          url: 'https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=dmendonez@gmail.com',
+          url: 'https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=darrylmendonez@gmail.com',
           title: 'Gmail<br><br>',
           animationDelay: '1.1s',
           class: 'far fa-envelope',
